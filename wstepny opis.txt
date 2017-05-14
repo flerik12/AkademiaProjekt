@@ -1,0 +1,12 @@
+Mi³osz Frelikowski
+
+Kalkulator spalania pojazdu - aplikacja konsolowa.
+
+- budowa obiektowa ( klasa podstawowa pojazd i pochodne po niej np osobowy, ciezarowy, motor)
+- dodawanie i usuwanie pojazdow
+- zapis i odczyt danych z pliku
+- mozliwosc dodawania i usuwania tankowan wraz z kosztami
+- obliczanie sredniej spalania na 100km
+- obliczanie zasiegu na jednym baku
+- obliczanie kosztow przejechania 100km 
+
