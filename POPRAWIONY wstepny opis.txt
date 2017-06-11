@@ -1,0 +1,26 @@
+Mi³osz Frelikowski
+
+Nie widzialem nigdzie zadnego wymogu dotyczacego obszernosci aplikacji, miala zawierac tylko okreslone rzeczy,  ktore robilismy na zajeciach.
+Nie wiem wiec tez dlaczego zostal odrzucony projekt ;) Moge zrobic poprzedni projekt w WPF i ewentualnie dodac jakies funkcjonalnosci(obsluga bazy danych) lub:
+
+Aplikacja sklepowa WPF(obsluga z poziomu sprzedawcy i kupca) z obsluga bazy danych:
+-tworzenie konta sprzedawcy/kupca
+-sprzedawca moze:
+	-tworzyc/usuwac kategorie produktow
+	-dodawac/usuwac nowe produkty
+	-zmieniac/odswiezac informacje dotyczace istniejacych produktow
+	-wyszukiwac produkty
+	-zarzadzac kupcami
+-kupiec moze:
+	-tworzyc listy zamowien
+	-szukac produktow
+	-wypisac liste zamowien i sprawdzic cene
+
+Jesli zaden z nich nie moze byc, to prosze o propozycje projektu a ja postaram sie go zrobic:)
+	
+
+
+
+
+
+
